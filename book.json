@@ -1,0 +1,26 @@
+{
+    "root": "./",
+    "title": "Electromagnetism",
+    "author": "Sean Campbell",
+    "language": "en",
+    "description": "My working knowledge of electromagnetism.",
+    "plugins": [
+        "katex",
+        "livereload",
+        "search",
+        "favicon",
+        "flow",
+        "fontsettings"
+    ],
+    "pluginsConfig": {
+        "favicon": {
+            "shortcut": "assets/favicon.ico",
+            "bookmark": "assets/favicon.ico"
+        },
+        "fontsettings": {
+            "theme": "white",
+            "family": "sans",
+            "size": 2
+        }
+    }
+}
